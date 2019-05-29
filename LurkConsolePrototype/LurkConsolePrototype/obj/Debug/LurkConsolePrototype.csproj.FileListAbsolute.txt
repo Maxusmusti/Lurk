@@ -8,3 +8,14 @@ D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\N
 D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.csproj.CopyComplete
 D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.exe
 D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.pdb
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\LurkConsolePrototype.exe.config
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\LurkConsolePrototype.exe
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\LurkConsolePrototype.pdb
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.csprojAssemblyReference.cache
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.csproj.CoreCompileInputs.cache
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.csproj.CopyComplete
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.exe
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.pdb
+C:\Users\MustafaE\Documents\GitHub\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\oAuthTwitterWrapper.dll

@@ -17,6 +17,10 @@ namespace Lurk
 
             cs.Display();
             Console.Read();
+
+            Tweet testTweet = new Tweet();
+            testTweet.printHits();
+            Console.Read();
         }
     }
 }
