@@ -1,0 +1,10 @@
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.csprojAssemblyReference.cache
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.csproj.CoreCompileInputs.cache
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\LurkConsolePrototype.exe.config
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\LurkConsolePrototype.exe
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\LurkConsolePrototype.pdb
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.csproj.CopyComplete
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.exe
+D:\Programming\Github\Lurk\LurkConsolePrototype\LurkConsolePrototype\obj\Debug\LurkConsolePrototype.pdb

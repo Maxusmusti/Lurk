@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A7E4F5E-DEFC-4919-B7B7-F8813B98683A}</ProjectGuid>
+    <ProjectGuid>{E24F7C1A-7BDB-4D59-AA46-32EEA7DFA90C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwitterRedditProtoype</RootNamespace>
-    <AssemblyName>TwitterRedditProtoype</AssemblyName>
+    <RootNamespace>LurkConsolePrototype</RootNamespace>
+    <AssemblyName>LurkConsolePrototype</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

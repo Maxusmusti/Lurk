@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterRedditProtoype", "TwitterRedditProtoype\TwitterRedditProtoype.csproj", "{1A7E4F5E-DEFC-4919-B7B7-F8813B98683A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LurkConsolePrototype", "LurkConsolePrototype\LurkConsolePrototype.csproj", "{E24F7C1A-7BDB-4D59-AA46-32EEA7DFA90C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1A7E4F5E-DEFC-4919-B7B7-F8813B98683A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A7E4F5E-DEFC-4919-B7B7-F8813B98683A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A7E4F5E-DEFC-4919-B7B7-F8813B98683A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A7E4F5E-DEFC-4919-B7B7-F8813B98683A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24F7C1A-7BDB-4D59-AA46-32EEA7DFA90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24F7C1A-7BDB-4D59-AA46-32EEA7DFA90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24F7C1A-7BDB-4D59-AA46-32EEA7DFA90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24F7C1A-7BDB-4D59-AA46-32EEA7DFA90C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {54E4FE1F-7801-4FD9-B164-637F69121AA9}
+		SolutionGuid = {C445E20B-4EC8-4340-A6CA-0AB4E8364425}
 	EndGlobalSection
 EndGlobal
