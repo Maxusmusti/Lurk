@@ -1,0 +1,10 @@
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\bin\Debug\TwitterRedditProtoype.exe.config
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\bin\Debug\TwitterRedditProtoype.exe
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\bin\Debug\TwitterRedditProtoype.pdb
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\obj\Debug\TwitterRedditProtoype.csprojAssemblyReference.cache
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\obj\Debug\TwitterRedditProtoype.csproj.CoreCompileInputs.cache
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\obj\Debug\TwitterRedditProtoype.exe
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\obj\Debug\TwitterRedditProtoype.pdb
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jimmie\source\repos\TwitterRedditProtoype\TwitterRedditProtoype\obj\Debug\TwitterRedditProtoype.csproj.CopyComplete
