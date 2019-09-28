@@ -13,7 +13,7 @@ namespace Lurk
             Subreddit showerThoughts = new Subreddit("showerthoughts");
             ContentStream cs = new ContentStream();
 
-            cs.AddContent(showerThoughts.ProduceContent());
+            //cs.AddContent(showerThoughts.ProduceContent());
 
             cs.Display();
             Console.Read();
