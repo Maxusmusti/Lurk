@@ -10,6 +10,9 @@ namespace TwitterTesto
     {
         private string name;
         private List<ContentPiece> contentPieces;
-
+        public List<ContentPiece> GetContentPieces()
+        {
+            return contentPieces;
+        }
     }
 }

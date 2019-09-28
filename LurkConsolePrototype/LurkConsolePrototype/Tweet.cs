@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace Lurk
 {
-    class Tweet //: ContentPiece
+    class Tweet : ContentPiece
     {
         public void printHits()
         {
@@ -21,6 +21,18 @@ namespace Lurk
 			//oAuthTwitterWrapper.TimeLineSettings = new TimeLineSettings {
             Console.ReadLine();
 
+        }
+        protected DateTime timeStamp(){
+            return null; 
+        }
+
+        public abstract void Display(){
+            
+        }
+
+        public static int CompareByDate(ContentPiece piece1, ContentPiece piece2)
+        {
+            return piece1.timeStamp.CompareTo(piece2.timeStamp);
         }
     }
 }

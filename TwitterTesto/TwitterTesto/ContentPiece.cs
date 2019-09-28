@@ -8,7 +8,7 @@ namespace TwitterTesto
 {
     abstract class ContentPiece
     {
-        protected DateTime timeStamp;
+        public DateTime timeStamp;
 
         public abstract void Display();
 
