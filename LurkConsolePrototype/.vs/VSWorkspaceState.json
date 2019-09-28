@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LurkConsolePrototype"
+    "\\LurkConsolePrototype",
+    "\\LurkConsolePrototype\\bin",
+    "\\LurkConsolePrototype\\obj",
+    "\\LurkConsolePrototype\\Properties"
   ],
-  "SelectedNode": "\\LurkConsolePrototype.sln",
+  "SelectedNode": "\\LurkConsolePrototype\\App.config",
   "PreviewInSolutionExplorer": false
 }

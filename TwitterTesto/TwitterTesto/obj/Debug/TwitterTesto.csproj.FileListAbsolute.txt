@@ -1,0 +1,14 @@
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.csprojAssemblyReference.cache
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.Form1.resources
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.Properties.Resources.resources
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.csproj.GenerateResource.cache
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.csproj.CoreCompileInputs.cache
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\bin\Debug\TwitterTesto.exe.config
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\bin\Debug\TwitterTesto.exe
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\bin\Debug\TwitterTesto.pdb
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\bin\Debug\oAuthTwitterWrapper.dll
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.csproj.CopyComplete
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.exe
+C:\Users\MustafaE\source\repos\TwitterTesto\TwitterTesto\obj\Debug\TwitterTesto.pdb
